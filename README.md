@@ -3,7 +3,7 @@
 通过 Settings -> Profiles -> Parsers -> Edit
 
 指定 profile 的预处理脚本。
-``` javascript
+``` yaml
 
 parsers: # array
   - url: 订阅链接
